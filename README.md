@@ -72,8 +72,8 @@ Each notebook/script corresponds to a chapter or topic in the book, reproducing 
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <repo-name>
+   git clone https://github.com/ksprajapatii/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow.git
+   cd Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow
    ```
 2. Install dependencies:
    ```bash
